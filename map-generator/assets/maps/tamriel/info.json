@@ -1,0 +1,677 @@
+{
+  "name": "tamriel",
+  "nations": [
+    {
+      "coordinates": [
+        2440,
+        289
+      ],
+      "name": "Solitude"
+    },
+    {
+      "coordinates": [
+        2665,
+        297
+      ],
+      "name": "Dawnstar"
+    },
+    {
+      "coordinates": [
+        2857,
+        301
+      ],
+      "name": "Winterhold"
+    },
+    {
+      "coordinates": [
+        1815,
+        314
+      ],
+      "name": "Northpoint"
+    },
+    {
+      "coordinates": [
+        3137,
+        330
+      ],
+      "name": "Solstheim"
+    },
+    {
+      "coordinates": [
+        2040,
+        332
+      ],
+      "name": "Farrun"
+    },
+    {
+      "coordinates": [
+        2182,
+        356
+      ],
+      "name": "Jehanna"
+    },
+    {
+      "coordinates": [
+        2488,
+        394
+      ],
+      "name": "Morthal"
+    },
+    {
+      "coordinates": [
+        3067,
+        428
+      ],
+      "name": "Blacklight"
+    },
+    {
+      "coordinates": [
+        3902,
+        443
+      ],
+      "name": "Port Telvannis"
+    },
+    {
+      "coordinates": [
+        1673,
+        452
+      ],
+      "name": "Shornhelm"
+    },
+    {
+      "coordinates": [
+        2921,
+        463
+      ],
+      "name": "Windhelm"
+    },
+    {
+      "coordinates": [
+        3662,
+        502
+      ],
+      "name": "Firewatch"
+    },
+    {
+      "coordinates": [
+        2150,
+        545
+      ],
+      "name": "Markarth"
+    },
+    {
+      "coordinates": [
+        2646,
+        565
+      ],
+      "name": "Whiterun"
+    },
+    {
+      "coordinates": [
+        3341,
+        605
+      ],
+      "name": "Ald'Ruhn"
+    },
+    {
+      "coordinates": [
+        3649,
+        645
+      ],
+      "name": "Sadrith Mora"
+    },
+    {
+      "coordinates": [
+        1979,
+        647
+      ],
+      "name": "Evermore"
+    },
+    {
+      "coordinates": [
+        2146,
+        665
+      ],
+      "name": "Dragonstar"
+    },
+    {
+      "coordinates": [
+        1459,
+        673
+      ],
+      "name": "Camlorn"
+    },
+    {
+      "coordinates": [
+        1809,
+        699
+      ],
+      "name": "Wayrest"
+    },
+    {
+      "coordinates": [
+        420,
+        734
+      ],
+      "name": "Taleskan"
+    },
+    {
+      "coordinates": [
+        3324,
+        742
+      ],
+      "name": "Balmora"
+    },
+    {
+      "coordinates": [
+        2507,
+        770
+      ],
+      "name": "Falkreath"
+    },
+    {
+      "coordinates": [
+        1920,
+        782
+      ],
+      "name": "Hallin's Stand"
+    },
+    {
+      "coordinates": [
+        280,
+        792
+      ],
+      "name": "Tagon"
+    },
+    {
+      "coordinates": [
+        3015,
+        797
+      ],
+      "name": "Riften"
+    },
+    {
+      "coordinates": [
+        2405,
+        831
+      ],
+      "name": "Elinhir"
+    },
+    {
+      "coordinates": [
+        3915,
+        846
+      ],
+      "name": "Necrom"
+    },
+    {
+      "coordinates": [
+        1340,
+        847
+      ],
+      "name": "Daggerfall"
+    },
+    {
+      "coordinates": [
+        2063,
+        851
+      ],
+      "name": "Skaven"
+    },
+    {
+      "coordinates": [
+        1582,
+        871
+      ],
+      "name": "Sentinel"
+    },
+    {
+      "coordinates": [
+        618,
+        876
+      ],
+      "name": "Lunul"
+    },
+    {
+      "coordinates": [
+        3404,
+        892
+      ],
+      "name": "Vivec"
+    },
+    {
+      "coordinates": [
+        2769,
+        923
+      ],
+      "name": "Bruma"
+    },
+    {
+      "coordinates": [
+        388,
+        944
+      ],
+      "name": "Yul"
+    },
+    {
+      "coordinates": [
+        3535,
+        970
+      ],
+      "name": "Davon's Watch"
+    },
+    {
+      "coordinates": [
+        3414,
+        1032
+      ],
+      "name": "Ebonheart"
+    },
+    {
+      "coordinates": [
+        2505,
+        1071
+      ],
+      "name": "Chorrol"
+    },
+    {
+      "coordinates": [
+        1974,
+        1083
+      ],
+      "name": "Taneth"
+    },
+    {
+      "coordinates": [
+        3042,
+        1083
+      ],
+      "name": "Cheydinhal"
+    },
+    {
+      "coordinates": [
+        1751,
+        1094
+      ],
+      "name": "Gilane"
+    },
+    {
+      "coordinates": [
+        3282,
+        1098
+      ],
+      "name": "Kragenmoor"
+    },
+    {
+      "coordinates": [
+        303,
+        1112
+      ],
+      "name": "Makan"
+    },
+    {
+      "coordinates": [
+        1548,
+        1158
+      ],
+      "name": "Hegathe"
+    },
+    {
+      "coordinates": [
+        2779,
+        1164
+      ],
+      "name": "Cyrodiil"
+    },
+    {
+      "coordinates": [
+        1936,
+        1183
+      ],
+      "name": "Abah's Landing"
+    },
+    {
+      "coordinates": [
+        3515,
+        1224
+      ],
+      "name": "Mournhold"
+    },
+    {
+      "coordinates": [
+        2085,
+        1231
+      ],
+      "name": "Rihad"
+    },
+    {
+      "coordinates": [
+        3406,
+        1249
+      ],
+      "name": "Narsis"
+    },
+    {
+      "coordinates": [
+        1625,
+        1335
+      ],
+      "name": "Port Hunding"
+    },
+    {
+      "coordinates": [
+        2448,
+        1341
+      ],
+      "name": "Skingrad"
+    },
+    {
+      "coordinates": [
+        2259,
+        1394
+      ],
+      "name": "Kvatch"
+    },
+    {
+      "coordinates": [
+        3800,
+        1400
+      ],
+      "name": "Tear"
+    },
+    {
+      "coordinates": [
+        2499,
+        1423
+      ],
+      "name": "Arenthia"
+    },
+    {
+      "coordinates": [
+        2128,
+        1439
+      ],
+      "name": "Anvil"
+    },
+    {
+      "coordinates": [
+        2888,
+        1457
+      ],
+      "name": "Bravil"
+    },
+    {
+      "coordinates": [
+        3418,
+        1457
+      ],
+      "name": "Stormhold"
+    },
+    {
+      "coordinates": [
+        3675,
+        1468
+      ],
+      "name": "Thorn"
+    },
+    {
+      "coordinates": [
+        2559,
+        1505
+      ],
+      "name": "Dune"
+    },
+    {
+      "coordinates": [
+        2698,
+        1506
+      ],
+      "name": "Riverhold"
+    },
+    {
+      "coordinates": [
+        118,
+        1516
+      ],
+      "name": "Zanzar"
+    },
+    {
+      "coordinates": [
+        1123,
+        1539
+      ],
+      "name": "Gonfalon Bay"
+    },
+    {
+      "coordinates": [
+        2311,
+        1555
+      ],
+      "name": "Silvenar"
+    },
+    {
+      "coordinates": [
+        2814,
+        1562
+      ],
+      "name": "Rimmen"
+    },
+    {
+      "coordinates": [
+        1696,
+        1571
+      ],
+      "name": "Firsthold"
+    },
+    {
+      "coordinates": [
+        2188,
+        1595
+      ],
+      "name": "Falinesti"
+    },
+    {
+      "coordinates": [
+        2712,
+        1633
+      ],
+      "name": "Orcrest"
+    },
+    {
+      "coordinates": [
+        3392,
+        1698
+      ],
+      "name": "Helstrom"
+    },
+    {
+      "coordinates": [
+        1870,
+        1714
+      ],
+      "name": "Skywatch"
+    },
+    {
+      "coordinates": [
+        1518,
+        1749
+      ],
+      "name": "Cloudrest"
+    },
+    {
+      "coordinates": [
+        2965,
+        1772
+      ],
+      "name": "Leyawiin"
+    },
+    {
+      "coordinates": [
+        3146,
+        1787
+      ],
+      "name": "Gideon"
+    },
+    {
+      "coordinates": [
+        2715,
+        1791
+      ],
+      "name": "Corinthe"
+    },
+    {
+      "coordinates": [
+        2227,
+        1805
+      ],
+      "name": "Marbruk"
+    },
+    {
+      "coordinates": [
+        2874,
+        1814
+      ],
+      "name": "Alabaster"
+    },
+    {
+      "coordinates": [
+        1264,
+        1828
+      ],
+      "name": "Lillandril"
+    },
+    {
+      "coordinates": [
+        2037,
+        1843
+      ],
+      "name": "Woodhearth"
+    },
+    {
+      "coordinates": [
+        1654,
+        1873
+      ],
+      "name": "Shimmerene"
+    },
+    {
+      "coordinates": [
+        2449,
+        1889
+      ],
+      "name": "Elden Root"
+    },
+    {
+      "coordinates": [
+        1837,
+        1902
+      ],
+      "name": "Vulkhel Guard"
+    },
+    {
+      "coordinates": [
+        2143,
+        1908
+      ],
+      "name": "Greenheart"
+    },
+    {
+      "coordinates": [
+        2617,
+        1944
+      ],
+      "name": "Torval"
+    },
+    {
+      "coordinates": [
+        3371,
+        1961
+      ],
+      "name": "Blackrose"
+    },
+    {
+      "coordinates": [
+        3650,
+        1963
+      ],
+      "name": "Archon"
+    },
+    {
+      "coordinates": [
+        2527,
+        1987
+      ],
+      "name": "Haven"
+    },
+    {
+      "coordinates": [
+        2085,
+        1989
+      ],
+      "name": "Port Dibellum"
+    },
+    {
+      "coordinates": [
+        2854,
+        1996
+      ],
+      "name": "Senchal"
+    },
+    {
+      "coordinates": [
+        1367,
+        1998
+      ],
+      "name": "Alinor"
+    },
+    {
+      "coordinates": [
+        2382,
+        2004
+      ],
+      "name": "Southpoint"
+    },
+    {
+      "coordinates": [
+        3159,
+        2033
+      ],
+      "name": "Soulrest"
+    },
+    {
+      "coordinates": [
+        1453,
+        2061
+      ],
+      "name": "Sunhold"
+    },
+    {
+      "coordinates": [
+        2693,
+        2117
+      ],
+      "name": "Mistral"
+    },
+    {
+      "coordinates": [
+        3494,
+        2139
+      ],
+      "name": "Lilmoth"
+    },
+    {
+      "coordinates": [
+        1709,
+        2168
+      ],
+      "name": "Dusk"
+    },
+    {
+      "coordinates": [
+        3362,
+        2314
+      ],
+      "name": "Sunport"
+    }
+  ]
+}
