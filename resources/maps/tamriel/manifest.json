@@ -1,17 +1,17 @@
 {
   "map": {
     "height": 2400,
-    "num_land_tiles": 3677952,
+    "num_land_tiles": 3678393,
     "width": 4124
   },
   "map16x": {
     "height": 600,
-    "num_land_tiles": 219247,
+    "num_land_tiles": 219265,
     "width": 1031
   },
   "map4x": {
     "height": 1200,
-    "num_land_tiles": 904492,
+    "num_land_tiles": 904600,
     "width": 2062
   },
   "name": "tamriel",
